@@ -5,7 +5,7 @@ Web Scraping: Extracts cybersecurity incident data from reliable sources. Machin
 Setup Instructions
 
 Clone the Repository
-bash git clone https://github.com/ShreeDeepthi/T230_Hackathon cd cybersecurity-tracker
+bash git clone https://github.com/shruthiaddagudi/T230_Hackathoncd cybersecurity-tracker
 
 Create a Virtual Environment
 bash python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
