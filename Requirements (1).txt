@@ -1,0 +1,13 @@
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Data Handling & ML
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+
+# Database
+sqlite3  # Built-in with Python, no need to install
+
+# Frontend
+streamlit==1.32.2
